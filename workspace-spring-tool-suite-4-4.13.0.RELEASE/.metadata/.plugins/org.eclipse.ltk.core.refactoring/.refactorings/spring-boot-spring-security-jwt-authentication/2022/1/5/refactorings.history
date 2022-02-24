@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;spring-boot-jwt-authentication-spring-security-architecture.png&apos; to &apos;mvnw&apos;&#x0A;- Original project: &apos;spring-boot-spring-security-jwt-authentication&apos;&#x0A;- Destination element: &apos;mvnw&apos;&#x0A;- Original element: &apos;spring-boot-jwt-authentication-spring-security-architecture.png&apos;" description="Copy file" element1="spring-boot-jwt-authentication-spring-security-architecture.png" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1643101543190" target="/spring-boot-spring-security-jwt-authentication/mvnw" units="0" version="1.0"/>
+</session>

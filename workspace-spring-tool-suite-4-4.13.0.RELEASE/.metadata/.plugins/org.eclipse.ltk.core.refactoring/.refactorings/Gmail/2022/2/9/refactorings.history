@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;credentials.json&apos; to &apos;GAP&apos;&#x0A;- Original project: &apos;Gmail&apos;&#x0A;- Destination element: &apos;GAP&apos;&#x0A;- Original element: &apos;credentials.json&apos;" description="Copy file" destination="=GAP" element1="credentials.json" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1645714260641" units="0" version="1.0"/>
+</session>

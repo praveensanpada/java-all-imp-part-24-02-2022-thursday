@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MailApp/src/main/resources/credentials/clientsecret.json&apos; to &apos;pp.json&apos;" description="Rename resource &apos;clientsecret.json&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/credentials/clientsecret.json" name="pp.json" stamp="1645242145155" updateReferences="true"/>
+</session>

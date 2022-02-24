@@ -1,0 +1,19 @@
+package com.example.demo;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class GmailController {
+	
+	
+	public String myApp() {
+		return "MyApp";
+	}
+	
+	
+	@GetMapping("/")
+	public String mainApp() {
+		return myApp();
+	}
+	
+}
